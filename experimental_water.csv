@@ -1,0 +1,10 @@
+concentration,bottle,sample
+control,F1,sample
+control,C11,sample
+control,C12,matrix
+low ammonium,F12,sample
+low ammonium,F13,sample
+low ammonium,F14,matrix
+high ammonium,G03,sample
+high ammonium,G05,sample
+high ammonium,G11,matrix
